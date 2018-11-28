@@ -1,0 +1,9 @@
+body{
+	background: #3575a6;
+	color:#fff; /* couleur texte */
+	font-size:30px; /* taille texte */
+	font-weight:bold; /* graisse */
+	font-style:italic; /* italique */
+	text-decoration:underline; /* souligné */
+	font-family:Pacifico;
+}
